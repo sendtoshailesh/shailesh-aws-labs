@@ -59,6 +59,3 @@ This repository contains a shell script for setting up a LAMP (Linux, Apache, My
 
 Feel free to fork this repository and submit pull requests for any improvements or fixes.
 
-## License
-
-[Specify your license here]
